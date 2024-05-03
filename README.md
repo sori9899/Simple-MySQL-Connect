@@ -1,1 +1,1 @@
-#Simple Code To Connecting MySQL
+Simple Code To Connecting MySQL
