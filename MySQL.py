@@ -1,6 +1,6 @@
 import pymysql
 
-conn = pymysql.connect(host='127.0.0.1', user='root', password='sorikim1590!@', db='baesisi', charset='utf8')
+conn = pymysql.connect(host='127.0.0.1', user='root', password='INSERT_YOUR_PASSWORD', db='INSER_YOUR_DB', charset='utf8')
 
 cur = conn.cursor()
 
